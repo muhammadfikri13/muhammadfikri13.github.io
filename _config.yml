@@ -157,8 +157,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: wool-governor-399.notion.site
-    rss_url: https://wool-governor-399.notion.site/Bash-Notes-07646444fbb4482a9c3530f3ff98e66a?pvs=4
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
