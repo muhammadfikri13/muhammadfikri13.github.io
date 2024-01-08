@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Analysis and Network Monitoring using Telegram
+description: This is my intern final project in PDAM Tirta Musi Palembang PDR Division
+img: assets/img/pdam.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: mikrotik, thedude
 ---
 
 Every project has a beautiful feature showcase page.

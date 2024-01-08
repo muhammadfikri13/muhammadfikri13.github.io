@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Wukong Suns
+description: Sports Logo Design for my client in Fiverr
+img: assets/img/7.jpg
 importance: 3
 category: fun
 ---

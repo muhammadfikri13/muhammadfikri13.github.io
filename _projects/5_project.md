@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: musi itb merch
+description: draw iconic palembang cultures for merchandise product
 img: assets/img/1.jpg
 importance: 3
 category: fun
