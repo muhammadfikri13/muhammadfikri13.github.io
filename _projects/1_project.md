@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: E-comerce App
+description: Developed with Golang, ReactJS, and MongoDB
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: personal
 related_publications: true
 ---
 

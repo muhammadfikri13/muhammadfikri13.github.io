@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Todo App
+description: I created this project to give me basic knowledge about CRUD operations using Golang and React.
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: personal
 giscus_comments: true
 ---
 
