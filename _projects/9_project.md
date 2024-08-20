@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Wukong Suns Logo Project
+description: This is logo design project fow my client in Fiverr
 img: assets/img/6.jpg
 importance: 4
-category: fun
+category: design
 ---
 
 Every project has a beautiful feature showcase page.

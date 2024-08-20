@@ -1,11 +1,10 @@
 ---
 layout: page
-title: React Calculator
-description: Just a simple calculator app that can do one operation at a time
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: personal
+title: Berrylicious
+description: Product Design project. Create mockup design for the yougurt. Create a promotion poster for Berrylicious.
+img: assets/img/6.jpg
+importance: 4
+category: design
 ---
 
 Every project has a beautiful feature showcase page.

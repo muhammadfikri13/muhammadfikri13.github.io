@@ -4,7 +4,7 @@ title: React Calculator
 description: Just a simple calculator app that can do one operation at a time
 img:
 importance: 4
-category: personal
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

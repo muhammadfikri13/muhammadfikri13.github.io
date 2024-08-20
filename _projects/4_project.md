@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Repoth App
+description: An android app that detect and report a potholes. This is my capstone project with my team while in Bangkit program.
 img:
 importance: 3
-category: fun
+category: college
 ---
 
 Every project has a beautiful feature showcase page.
