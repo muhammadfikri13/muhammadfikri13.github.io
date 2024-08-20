@@ -3,7 +3,7 @@ layout: page
 title: Wukong Suns Logo Project
 description: This is logo design project fow my client in Fiverr
 img: assets/img/6.jpg
-importance: 4
+importance: 5
 category: design
 ---
 

@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Under Graduate of Computer Systems with a keen interest in the realms of `cloud computing`, `design`, and an avid enthusiasm for the latest advancements. Successfully accomplished the Capstone Project at [Bangkit Academy](https://grow.google/intl/id_id/bangkit) 2023, excelling as a Cloud Engineer.
+Fresh Graduate of Computer Systems with a keen interest in the realms of `cloud computing`, `design`, and an avid enthusiasm for the latest advancements. Successfully accomplished the Capstone Project at [Bangkit Academy](https://grow.google/intl/id_id/bangkit) 2023, excelling as a Cloud Engineer.
 
 I earned the prestigious Gold Prize in an international competition at [IPITEX](https://ipitex.nrct.go.th/) (Intellectual Property, Invention, Innovation and Technology Exposition), as well as a Gold Medal at the World Young Inventors Exhibition ([WYIE](https://itex.com.my/blog/wyie/)) in 2023.
 
