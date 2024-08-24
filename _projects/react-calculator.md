@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Wukong Suns Logo Project
-description: This is logo design project fow my client in Fiverr
-img: assets/img/6.jpg
-importance: 5
-category: design
+title: React Calculator
+description: Just a simple calculator app that can do one operation at a time
+img: assets/img/no-image.png
+redirect: https://unsplash.com
+importance: 3
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

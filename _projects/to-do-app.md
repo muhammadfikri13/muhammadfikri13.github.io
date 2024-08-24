@@ -2,7 +2,7 @@
 layout: page
 title: Todo App
 description: I created this project to give me basic knowledge about CRUD operations using Golang and React.
-img: assets/img/3.jpg
+img: assets/img/no-image.png
 importance: 2
 category: personal
 giscus_comments: true
