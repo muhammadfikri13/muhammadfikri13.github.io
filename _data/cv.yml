@@ -28,6 +28,13 @@
 - title: Experience
   type: time_table
   contents:
+
+    - title: IT Operations and Support
+      institution: Lion Air Group
+      year: 2024-Present
+      description:
+        - Provide software and hardware troubleshooting for user
+        - Configure PC and devices for users in Lion Air Group
     
     - title: UI/UX Team
       institution: Google Developer Student Club
@@ -37,7 +44,7 @@
         - Speaker in UI/UX Sharing Session Part 3 GDSC Universitas Sriwijaya
 
     - title: Interest and Talent Development Staff
-      institution: Himpunan Mahasiswa Sisitem Komputer Universitas Sriwijaya
+      institution: Himpunan Mahasiswa Sistem Komputer Universitas Sriwijaya
       year: 2020-2021
       description:
         - Documenting the interests and talents of students majoring in Computer Systems.
@@ -51,11 +58,11 @@
         - Maintain HFO's social media
         - Responsible for sound management and documentation at every event
 
-    - title: Kepemudaan Division
-      institution: ROMANSA Officer
-      year: 2017-2019
-      description:
-        - Documentation at the Mentoring Camp 2020 event
+    # - title: Kepemudaan Division
+    #   institution: ROMANSA Officer
+    #   year: 2017-2019
+    #   description:
+    #     - Documentation at the Mentoring Camp 2020 event
 
 # - title: Open Source Projects
 #   type: time_table
