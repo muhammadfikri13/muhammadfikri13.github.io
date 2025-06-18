@@ -38,4 +38,5 @@ EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
 
-CMD ["/tmp/entry_point.sh"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "8080"]
+# CMD ["/tmp/entry_point.sh"]
